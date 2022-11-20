@@ -2,8 +2,7 @@
 
 ### Education
 
-- Yandex.Practicum Back-End Python Developer | 2020-2021 -
-[Diploma ](https://user-images.githubusercontent.com/19635244/201067854-db8f5873-de87-4954-be92-2dd37259fc49.png)
+- Yandex.Practicum Back-End Python Developer | 2021-2022 -
 
 ###  Projects
 
