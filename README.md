@@ -1,4 +1,4 @@
-## Hey,
+### Hey,
 
 I'm Sergey Noskov, a self-motivated tech enthusiast and Golang developer.
 
