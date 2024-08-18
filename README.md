@@ -4,7 +4,7 @@ I'm Sergey Noskov, a self-motivated tech enthusiast and Golang developer.
 
 💻 programming engineer [@mts_digital]  
 💬 connect [@noskov_sergey](https://t.me/noskov_sergey)    
-💻 practice [LeetCode]([https://leetcode.com/u/synoskov/])  
+💻 practice [LeetCode](https://leetcode.com/u/synoskov/)  
 
 <!--
 **noskov-sergey/noskov-sergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
