@@ -1,6 +1,6 @@
 ### Hey,
 
-I'm Sergey Noskov, a self-motivated tech enthusiast and Golang developer.
+I'm Sergey Noskov, a self-motivated tech enthusiast and Golang/Python developer.
 
 💻 programming engineer [@mts_digital]  
 💬 connect [@noskov_sergey](https://t.me/noskov_sergey)    
