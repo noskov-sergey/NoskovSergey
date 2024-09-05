@@ -2,7 +2,7 @@
 
 I'm Sergey Noskov, a self-motivated tech enthusiast and Golang/Python developer.
 
-💻 programming engineer [@vtb_mobile]([https://vtbmobile.ru/])    
+💻 programming engineer [@vtb_mobile](https://vtbmobile.ru/)    
 💬 connect [@noskov_sergey](https://t.me/noskov_sergey)    
 💻 practice [LeetCode](https://leetcode.com/u/synoskov/)  
 
